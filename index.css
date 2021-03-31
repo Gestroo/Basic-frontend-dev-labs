@@ -1,0 +1,67 @@
+.logo
+{
+    width:146px;
+    height:52px;
+} 
+.text
+{
+font-family:metropolis-black;
+}
+.tyan
+{
+    width:600px;
+    height:565px;
+}
+.un
+{
+    height:350px;
+}
+.fu
+{
+    font-size:large;
+    font-weight:bold;
+}
+.un1
+{
+width:225px;
+height:67px;
+}
+.un2
+{
+width:250px;
+height:64px;
+}
+.un3
+{
+width:224px;
+height:79px;
+}
+.un4
+{
+width:275px;
+height:62px;
+}
+.dots
+{
+    width:107px;
+    height:14px;
+    margin-left:700px;
+}
+.os
+{
+    font-size:x-large;
+    font-weight:bold;
+}
+.block1
+{
+    margin-left:350px ;
+}
+.block2
+{
+    margin-left:480px;
+}
+.news1
+{
+    width:344px;
+    height:224px;
+}
